@@ -7,8 +7,8 @@ public class Multiples {
         System.out.println((multiples(10, 3, 5)));
     }
 
-    public static void multiples() {
-
+    public static int multiples() {
+        return 0;
     }
     public static int multiples(int n, int a, int b) {
         int counter = 0;
