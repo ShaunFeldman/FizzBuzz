@@ -8,7 +8,7 @@ public class Multiples {
     }
 
     public static int multiples() {
-        return 0;
+        return multiples(1000, 3, 5);
     }
     public static int multiples(int n, int a, int b) {
         int counter = 0;
